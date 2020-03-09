@@ -1,0 +1,51 @@
+body {
+    background: #151515;
+    background-image: url(home-bg.jpg);
+    background-position: 0px;
+    font-family: "roboto-regular", sans-serif;
+    font-size: 1.6rem;
+    line-height: 3rem;
+    color: #595959;
+}
+
+.counter {
+    color:white;
+    font: 84px roboto-black;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.sup{
+    color:rgb(150, 136, 136);
+    font:14px roboto-bold;
+}
+
+.bottom-text{
+    color:wheat;
+}
+
+.Image{
+    padding-top: 20px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    color: skyblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    padding-top: 25px;
+    
+}
+
+sup{
+    color: white;
+}
+span{
+    color:skyblue;
+}
